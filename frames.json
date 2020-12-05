@@ -1,203 +1,73 @@
 [
 
       {
-		"name": "Aero Blue",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aero-blue-solid-color-background.png",
-		"collections": "Blue"
+		"name": "Absolute Zero",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/absolutezero.png",
+		"collections": "Blue",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Acid Green",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/acidgreen.png",
+		"collections": "Green",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "Aero",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aero-solid-color-background.png",
-		"collections": "Blue"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/aero.png",
+		"collections": "Blue",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Aero Blue",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/aeroblue.png",
+		"collections": "Blue",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "African Violet",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-african-violet-solid-color-background.png",
-		"collections": "Purple"
-	},
-      {
-		"name": "Air Force Blue",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-air-force-blue-solid-color-background.png",
-		"collections": "Blue"
-	},
-      {
-		"name": "Air Force Dark Blue",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-air-force-dark-blue-solid-color-background.png",
-		"collections": "Blue"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/africanviolet.png",
+		"collections": "Purple",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "Air Superiority Blue",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-air-superiority-blue-solid-color-background.png",
-		"collections": "Blue"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/airsuperiorityblue.png",
+		"collections": "Blue",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
-		"name": "Alabama Crimson",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-alabama-crimson-solid-color-background.png",
-		"collections": "Red"
+		"name": "Alabaster",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/alabaster.png",
+		"collections": "Other",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "Alice Blue",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-alice-blue-solid-color-background.png",
-		"collections": "Blue"
-	},
-      {
-		"name": "Alizarin Crimson",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-alizarin-crimson-solid-color-background.png",
-		"collections": "Red"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/aliceblue.png",
+		"collections": "Blue",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "Alloy Orange",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-alloy-orange-solid-color-background.png",
-		"collections": "Orange"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/alloyorange.png",
+		"collections": "Orange",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	},
       {
 		"name": "Almond",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-almond-solid-color-background.png",
-		"collections": "Other"
-	},
-      {
-		"name": "Amaranth",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-amaranth-solid-color-background.png",
-		"collections": "Red"
-	},
-      {
-		"name": "Amazon",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-amazon-solid-color-background.png",
-		"collections": "Green"
-	},
-      {
-		"name": "Amber Orange",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-amber-orange-solid-color-background.png",
-		"collections": "Orange"
-	},
-      {
-		"name": "Amber",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-amber-solid-color-background.png",
-		"collections": "Yellow"
-	},
-      {
-		"name": "American Rose",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-american-rose-solid-color-background.png",
-		"collections": "Red"
-	},
-      {
-		"name": "Amethyst",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-amethyst-solid-color-background.png",
-		"collections": "Purple"
-	},
-      {
-		"name": "Android Green",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-android-green-solid-color-background.png",
-		"collections": "Green"
-	},
-      {
-		"name": "Anti Flash White",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-anti-flash-white-solid-color-background.png",
-		"collections": "White"
-	},
-      {
-		"name": "Antique Brass",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-antique-brass-solid-color-background.png",
-		"collections": "Brown"
-	},
-      {
-		"name": "Antique Bronze",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-antique-bronze-solid-color-background.jpg",
-		"collections": "Brown,New"
-	},
-      {
-		"name": "Antique Fuchsia",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-antique-fuchsia-solid-color-background.jpg",
-		"collections": "Purple,New"
-	},
-      {
-		"name": "Antique Ruby",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-antique-ruby-solid-color-background.jpg",
-		"collections": "Red,New"
-	},
-      {
-		"name": "Antique White",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-antique-white-solid-color-background.jpg",
-		"collections": "White,New"
-	},
-      {
-		"name": "Ao English",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-ao-english-solid-color-background.jpg",
-		"collections": "Green,New"
-	},
-      {
-		"name": "Apple Green",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-apple-green-solid-color-background.jpg",
-		"collections": "Green,New"
-	},
-      {
-		"name": "Apricot",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-apricot-solid-color-background.jpg",
-		"collections": "Other,New"
-	},
-      {
-		"name": "Aquamarine",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aquamarine-solid-color-background.jpg",
-		"collections": "Blue,New"
-	},
-      {
-		"name": "Aqua",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aqua-solid-color-background.jpg",
-		"collections": "Blue,New"
-	},
-      {
-		"name": "Army Green",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-army-green-solid-color-background.jpg",
-		"collections": "Green,New"
-	},
-      {
-		"name": "Arsenic",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-arsenic-solid-color-background.jpg",
-		"collections": "Black,New"
-	},
-      {
-		"name": "Arylide Yellow",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-arylide-yellow-solid-color-background.jpg",
-		"collections": "Yellow,New"
-	},
-      {
-		"name": "Ash Grey",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-ash-grey-solid-color-background.jpg",
-		"collections": "Grey,New"
-	},
-      {
-		"name": "Asparagus",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-asparagus-solid-color-background.jpg",
-		"collections": "Green,New"
-	},
-      {
-		"name": "Atomic Tangerine",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-atomic-tangerine-solid-color-background.jpg",
-		"collections": "Orange,New"
-	},
-      {
-		"name": "Auburn",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-auburn-solid-color-background.jpg",
-		"collections": "Red,New"
-	},
-      {
-		"name": "Aureolin",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aureolin-solid-color-background.jpg",
-		"collections": "Yellow,New"
-	},
-      {
-		"name": "Aurometalsaurus",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-aurometalsaurus-solid-color-background.jpg",
-		"collections": "Grey,New"
-	},
-      {
-		"name": "Avocado",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-avocado-solid-color-background.jpg",
-		"collections": "Green,New"
-	},
-      {
-		"name": "Azure Mist",
-		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/1280x800-azure-mist-solid-color-background.jpg",
-		"collections": "Blue,New"
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/almond.png",
+		"collections": "Other",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	}
 ]
