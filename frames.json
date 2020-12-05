@@ -69,5 +69,75 @@
 		"collections": "Other",
 		"author": "Struckan Designs",
 		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amaranth",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amaranth.png",
+		"collections": "Green",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amaranth Mp",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amaranthmp.png",
+		"collections": "Purple",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amaranth Pink",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amaranthpink.png",
+		"collections": "Pink",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amaranth Purple",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amaranthpurple.png",
+		"collections": "Purple",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amaranth Red",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amaranthred.png",
+		"collections": "Red",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amazon",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amazon.png",
+		"collections": "Green",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amber",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amber.png",
+		"collections": "Yellow",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amber Sae",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/ambersae.png",
+		"collections": "Orange",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Amethyst",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/amethyst.png",
+		"collections": "Purple",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
+	},
+      {
+		"name": "Android Green",
+		"url": "https://raw.githubusercontent.com/StruckanDesigns/solidcolorwallpapers/main/wallpapers/androidgreen.png",
+		"collections": "Green",
+		"author": "Struckan Designs",
+		"dimensions": "3840x1644"
 	}
 ]
